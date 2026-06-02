@@ -116,3 +116,14 @@ This project uses the popular **MERN stack** (MongoDB, Express, React, Node), wh
   Similar MERN planner apps also follow this pattern with CRUD task operations and backend persistence. 
 Contribution by Anand
 ---
+
+👩‍💻 Author
+Sakshi Kadadekar
+
+📧 Email: sakshisantosh0305@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/sakshi-kadadekar-231311365
+
+💻 GitHub:
+https://github.com/sakshi-kadadekar
